@@ -1,0 +1,33 @@
+.conteiner {
+    margin: auto;
+    border: 1px solid green;
+    width: 40%;
+    margin-bottom: 50px;
+}
+input {
+    width: 80%;
+    margin: auto;
+    height: 40px;
+}
+form {
+    width: 100%;
+}  
+body {
+    background: aqua;
+}
+table {
+    margin: auto;
+    width: 80%;
+    border: 1px solid black;
+}
+th {
+    border: 1px solid blue;
+    width: 20%;
+}
+.links {
+    width: 30px;
+    height: 30px;
+    background-color: red;
+    text-decoration: none;
+    color: white;
+}
