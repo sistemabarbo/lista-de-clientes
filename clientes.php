@@ -84,7 +84,7 @@ $row = mysqli_num_rows($result);
 
        <!-- LINKS PARA EDITAR E EXCLUIR DADOS  -->
 
-       <a class="links" href="edite.php?id=$res_1[id]">agora</a>
+       <a class="links" href="edite.php?id=$res_1[id]">Edit</a>
         <a href="clientes.php?func=deleta&id=<?php echo $id; ?>">Excluir</a>
         
     </td>
